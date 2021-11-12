@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/aplicacionweb/static/css/main.6eefa2c3.chunk.css",
+    "main.js": "/aplicacionweb/static/js/main.1950296b.chunk.js",
+    "main.js.map": "/aplicacionweb/static/js/main.1950296b.chunk.js.map",
+    "runtime-main.js": "/aplicacionweb/static/js/runtime-main.1c90e7ae.js",
+    "runtime-main.js.map": "/aplicacionweb/static/js/runtime-main.1c90e7ae.js.map",
+    "static/js/2.908795fb.chunk.js": "/aplicacionweb/static/js/2.908795fb.chunk.js",
+    "static/js/2.908795fb.chunk.js.map": "/aplicacionweb/static/js/2.908795fb.chunk.js.map",
+    "static/js/3.40dd7575.chunk.js": "/aplicacionweb/static/js/3.40dd7575.chunk.js",
+    "static/js/3.40dd7575.chunk.js.map": "/aplicacionweb/static/js/3.40dd7575.chunk.js.map",
+    "index.html": "/aplicacionweb/index.html",
+    "static/css/main.6eefa2c3.chunk.css.map": "/aplicacionweb/static/css/main.6eefa2c3.chunk.css.map",
+    "static/js/2.908795fb.chunk.js.LICENSE.txt": "/aplicacionweb/static/js/2.908795fb.chunk.js.LICENSE.txt",
+    "static/media/Home.scss": "/aplicacionweb/static/media/bsckground.9fd5d467.png",
+    "static/media/button.dbd93998.png": "/aplicacionweb/static/media/button.dbd93998.png",
+    "static/media/catapulta.f5eca4fd.png": "/aplicacionweb/static/media/catapulta.f5eca4fd.png",
+    "static/media/power.64dc48d6.png": "/aplicacionweb/static/media/power.64dc48d6.png",
+    "static/media/salida.02bc7186.png": "/aplicacionweb/static/media/salida.02bc7186.png",
+    "static/media/wire.19b774b2.png": "/aplicacionweb/static/media/wire.19b774b2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c90e7ae.js",
+    "static/js/2.908795fb.chunk.js",
+    "static/css/main.6eefa2c3.chunk.css",
+    "static/js/main.1950296b.chunk.js"
+  ]
+}
