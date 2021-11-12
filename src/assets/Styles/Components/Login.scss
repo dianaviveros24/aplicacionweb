@@ -1,0 +1,93 @@
+.o-login_card{
+    height: 30rem;
+    display: flex;
+    width: 28rem;
+    padding: 2rem;
+    margin: auto;
+    justify-content: space-evenly;
+}
+
+.o-form_login{
+    position: absolute;
+    top: 10%;
+    left: 0%;
+    width: 100%;
+    height: 80%;
+    display: flex;
+    align-content: center;
+}
+
+  
+  .login__container {
+    background-color: rgba(255,255,255,0.1);
+    border: 2px solid white;
+    border-radius: 40px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    min-height: 700px;
+    padding: 60px 60px 40px;
+    width: calc(100% / 2);
+  }
+  
+  .login__container--form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .login__container--form label {
+    font-size: 14px;
+  }
+  
+  .login__container--remember-me {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  .login__container--remember-me a {
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+  }
+  
+  .login__container--remember-me a:hover {
+    text-decoration: underline;
+  }
+  
+  .login__container--social-media > div {
+    align-items: center;
+    display: flex;
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  
+  .login__container--social-media > div > img {
+    margin-right: 10px;
+    width: 30px;
+  }
+  
+  .login__container--register {
+    display: flex;
+    justify-content: center;
+  }
+
+  .login__container--register p {
+    font-size: 14px;
+    margin-top: 2rem;
+  }
+  
+  .login__container--register a {
+    color: #737eff;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .login__container--register a:hover {
+    text-decoration: underline;
+  }

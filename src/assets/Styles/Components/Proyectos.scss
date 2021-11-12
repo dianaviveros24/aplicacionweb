@@ -1,0 +1,75 @@
+.card img {
+    width: 18rem;
+}
+#disabled{
+    opacity: 0.5;
+}
+.container .row{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: space-evenly;
+    margin-top: 2%;
+    height: 80%;
+}
+    .container .row .o-project-card{
+        padding: 3rem 3rem;
+        max-height: 90%;
+        width: 30%;
+    }
+    .container .row .o-title{
+        padding: 0rem 11rem 1rem;
+    }
+    .container .row .o-project-card{
+        border-radius: 10px;
+    }
+    .container .row .o-project-card:hover{
+        border-color: #5D00FD;
+        box-shadow: 2px 1px 10px#5D00FD;
+    }
+
+.o-project-card{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.o-acciones{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+    .o-acciones #elegir{
+        background-color: #5D00FD;
+        color: white;
+        border: none;
+        width: 100%;
+        border-radius: 4px;
+        padding: .5rem;
+    }
+
+.o-title-card{
+    display: flex;
+    justify-content: space-between;
+    padding: 0rem 11rem 1rem;
+    flex-direction: row;
+    width: 100%;
+}
+    .o-title-card #duda{
+        background-color: white;
+        border-color: #5D00FD;
+        color: #5D00FD;
+        width: 9em;
+        border-radius: 4px;
+        padding: .5rem;
+    }
+
+
+    .o-title-card #duda a{
+        color: #5D00FD;
+        text-decoration: none
+    }
+
+
+

@@ -1,0 +1,46 @@
+body{
+    font-family: Lato, Verdana;
+
+}
+.btn-primary{
+    background-color: #5D00FD;
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+.o-home{
+    height: 40rem;
+    width: 100%;
+    display: flex;
+    min-height: 100%;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url('../../images/bsckground.png');
+    background-size: contain;
+   /* background-size: cover;
+    background-color: #5F00FD;
+    background-image: url(../Images/Texturecopy.png);*/
+}
+    .o-home .o-button-text{
+        width: 10rem;
+        color: white;
+        padding: .6rem;
+        font-weight: 500;
+        display: flex;
+        font-size: 1.5rem;
+        text-decoration: none;
+        justify-content: center;
+        border-radius: 4px;
+        background-color: #4B3FFF;
+    }
+    .home a:hover{
+        font-size: 2.3rem;
+        background-color: #510fbbde;
+    }
+
+.o-principal-title{
+    color: #1d1d1d;
+    font-size: 4rem;
+    font-family: Roboto, Verdana;
+}

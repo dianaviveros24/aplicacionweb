@@ -1,0 +1,55 @@
+.o-form_register{
+    position: absolute;
+    top: 10%;
+    left: 0%;
+    width: 100%;
+    height: 80%;
+    display: flex;
+    align-content: center;
+}
+.o-register_card{
+    height: 30rem;
+    display: flex;
+    width: 28rem;
+    padding: 2rem;
+    margin: auto;
+    justify-content: space-evenly;
+}
+
+.register {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: center;
+	padding: 0px 30px;
+	min-height: calc(
+		100vh - 200px
+	); /* El ancho será igual al tamaño de todo el height menos 200px (100px del header + 100px del footer) */
+}
+
+.register__container {
+	background-color: rgba(255, 255, 255, 0.1);
+	border-radius: 40px;
+	color: rgb(32, 32, 32);
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	min-height: 600px;
+	padding: 60px 68px 40px;
+}
+
+.register__container--form {
+	display: flex;
+	flex-direction: column;
+}
+
+.register__container a {
+	color: white;
+	font-size: 16px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.register__container a:hover {
+	text-decoration: underline;
+}
